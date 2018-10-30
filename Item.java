@@ -103,7 +103,7 @@ public class Item
      */
     public String toString()
     {
-        return "Item{" + "id=" + id + "descr=" + descr + "quant=" + quant + "price=" + price + "taxRate=" + taxRate + '}';
+        return "Item{" + "id= " + id + " descr= " + descr + " quant= " + quant + " price= " + price + " taxRate= " + taxRate + '}';
     }
     
     /**
@@ -111,6 +111,6 @@ public class Item
      */
     public double computeTotal()
     {
-        return (price * quant) + ((taxRate/100)*price);
+        return (price * quant) + ((taxRate/100)*(price * quant));
     }
 }   
