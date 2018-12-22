@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: CE4701 Course Files
+PURPOSE OF PROJECT: To store work from class and demonstrate Java skills
+VERSION or DATE: Version 16 October 2018
+AUTHOR: Zophia Raleigh
+USER INSTRUCTIONS: The code in this repo follows the instructions and assignments from class
