@@ -2,7 +2,7 @@
 /**
  * The code creates a class to represet a stock item
  *
- * @author Zophia Raleigh 18107206
+ * @author Zophia Raleigh
  * @version 16 October 2018
  */
 public class Item

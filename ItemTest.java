@@ -1,8 +1,8 @@
 
 /**
- * This is the main function to the Item class and tests the ability to represnt a stock item
+ * This is the main function of the Item class and tests the ability to represnt a stock item
  *
- * @author Zophia Raleigh 18107206
+ * @author Zophia Raleigh
  * @version 16 October 2018
  */
 public class ItemTest

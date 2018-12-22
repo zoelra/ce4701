@@ -3,7 +3,6 @@
  * Class CalculatePi calclates the value of pi from an infinite series
  * @author1 Ny Nguyen
  * @author2 Zophia Raleigh
- * @idNumber 18107206
  * @version 6 November 2018
  * 
  * Seudo code

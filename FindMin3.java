@@ -1,6 +1,5 @@
 /**
- * FindMin3 takes three input variables and returns which is the 
- * minimum value
+ * FindMin3 takes three input variables and returns which is the minimum value
  *
  * @author Zophia Raleigh
  * @version 9 October 2018

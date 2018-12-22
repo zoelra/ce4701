@@ -2,9 +2,7 @@
  * MyMathTest tests MyMath
  *
  * @author1 Zophia Raleigh 
- * @idNumber1 18107206
  * @author2 Ny Nguyen
- * @idNumber2 18157157
  * @version 6 November 2018
  */
 public class MyMathTest
